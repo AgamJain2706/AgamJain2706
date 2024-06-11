@@ -1,24 +1,11 @@
-# Restaurant Website with Bootstrap
+# Agam Jain
+Hey there! I'm Agam 👋, a front-end magician transforming coffee into code. Passionate about building sleek, user-friendly digital landscapes. With my toolbox of HTML, CSS, JavaScript, and a sprinkle of Python, I've been part of creating some cool web spaces like Sneakersphere and Devtown. Born curious, I'm always on a quest to learn and have added Bootstrap, Tailwind, C, C++, and a bit of PHP to my skill collection.
 
-Build a responsive website for Ming's Diner using HTML, CSS, and Bootstrap 5.
+My journey started with a Udemy course on HTML in December 2022, and it didn't stop there. Fast forward a few months, and I'm now certified in CSS, C, and C++, with a special spotlight on SQL databases. Not to brag, but I've also aced an internship in Web Development, where I honed my craft hands-on.
 
-## Features
-- Responsive design
-- Navbar
-- Carousel
-- CTA button
-- Grid layout
-- Footer
-- Contact form
+Curious about what's possible when technology meets creativity? Let's connect and explore the digital horizons together!
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
 
-## Tasks Completed
-- Developed the website
 - Pushed code to GitHub repository
 
 
