@@ -7,6 +7,8 @@
 
 - 🔭 Recent front end project  [MultiKart](https://multi-kart-clone-w16f.vercel.app//)
 
+- - 🔭 Current Working on CharterJetOne 
+
 - 🌱 I’m currently gaining skills on **reactjs , Mongodb ,express and Node js**
 
 - 💬 Ask me about **Javascript , tailwind and c++**
