@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agamjain2706" alt="agamjain2706" /></a> </p>
 
-- 🔭 Recent front end project  [MultiKart](https://multi-kart-clone-2lui8mj8d-agam-jains-projects.vercel.app/)
+- 🔭 Recent front end project  [MultiKart](https://multi-kart-clone-w16f.vercel.app//)
 
 - 🌱 I’m currently gaining skills on **reactjs , Mongodb ,express and Node js**
 
