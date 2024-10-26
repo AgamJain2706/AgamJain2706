@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/agamjain06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agamjain06" height="30" width="40" /></a>
 <a href="https://instagram.com/a_j_ja_in87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_j_ja_in87" height="30" width="40" /></a>
-  <a href="https://app.daily.dev/agamjain47"><img src="https://api.daily.dev/devcards/v2/Lmopxv6caRxUs6mhAMQXb.png?type=default&r=uy2" width="356" alt="Agam Jain's Dev Card"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamjain2706&show_icons=true&locale=en&layout=compact" alt="agamjain2706" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamjain2706&show_icons=true&locale=en" alt="agamjain2706" /></p>
-
+<a href="https://app.daily.dev/agamjain47"><img src="https://api.daily.dev/devcards/v2/Lmopxv6caRxUs6mhAMQXb.png?type=default&r=uy2" width="356" alt="Agam Jain's Dev Card"/></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agamjain2706&" alt="agamjain2706" /></p>
 
