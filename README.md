@@ -7,7 +7,7 @@
 
 - 🔭 Recent front end project  [Digiatto](https://digiatto-nu.vercel.app/)
 
-- - 🔭 Current Learning Redux and state Management 
+-  🔭 Current Learning Redux and state Management 
 
 - 🌱 I’m currently gaining skills on **reactjs , Mongodb ,express and Node js**
 
