@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agamjain2706" alt="agamjain2706" /></a> </p>
 
-- 🔭 Recent front end project  [MultiKart](https://multi-kart-clone-w16f.vercel.app//)
+- 🔭 Recent front end project  [Digiatto]()
 
-- - 🔭 Current Working on CharterJetOne 
+- - 🔭 Current Learning Redux and state Management 
 
 - 🌱 I’m currently gaining skills on **reactjs , Mongodb ,express and Node js**
 
@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/agamjain06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agamjain06" height="30" width="40" /></a>
 <a href="https://instagram.com/a_j_ja_in87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_j_ja_in87" height="30" width="40" /></a>
+  <a href="https://app.daily.dev/agamjain47"><img src="https://api.daily.dev/devcards/v2/Lmopxv6caRxUs6mhAMQXb.png?type=default&r=uy2" width="356" alt="Agam Jain's Dev Card"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
