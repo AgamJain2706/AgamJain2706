@@ -7,11 +7,12 @@
 
 - 🔭 Recent front end project  [Digiatto](https://digiatto-nu.vercel.app/)
 
--  🔭 Current Learning Redux and state Management 
+-  🔭 Current Learning Redux  and its time for backend 
+-  👨‍🎓 Recently Graduated From TeerThanker Mahaveer University
 
-- 🌱 I’m currently gaining skills on **reactjs , Mongodb ,express and Node js**
+- 🌱 I’m currently gaining skills on reactjs , Mongodb ,express and Node js**
 
-- 💬 Ask me about **Javascript , tailwind and c++**
+- 💬 Ask me about **Javascript , tailwind and UI Design **
 
 - 📫 How to reach me **agam2003jain@gmail.com**
 
