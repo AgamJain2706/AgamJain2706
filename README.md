@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamjain2706&show_icons=true&locale=en" alt="agamjain2706" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agamjain2706&" alt="agamjain2706" /></p>
-<a href="https://app.daily.dev/agamjain47"><img src="https://api.daily.dev/devcards/v2/Lmopxv6caRxUs6mhAMQXb.png?type=default&r=uy2" width="356" alt="Agam Jain's Dev Card"/></a>
+<a href="https://app.daily.dev/agamjain47"><img src="https://api.daily.dev/devcards/v2/Lmopxv6caRxUs6mhAMQXb.png?type=wide&r=93a" width="652" alt="Agam Jain's Dev Card"/></a>
 
