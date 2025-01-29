@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agamjain2706" alt="agamjain2706" /></a> </p>
 
-- 🔭 Recent front end project  [Digiatto](https://digiatto-nu.vercel.app/)
+- 🔭 Recent front end project  [Trend-Trek](https://nike-ecommerce-kappa.vercel.app/)
 
--  🔭 Current Learning Redux  and its time for backend 
+-  🔭 Current Learning backend and Node , express 
 -  👨‍🎓 Recently Graduated From TeerThanker Mahaveer University
 
-- 🌱 I’m currently gaining skills on reactjs , Mongodb ,express and Node js**
+- 🌱 I’m currently gaining skills on ** Mongodb ,express and Node js**
 
 - 💬 Ask me about **Javascript , tailwind and UI Design **
 
