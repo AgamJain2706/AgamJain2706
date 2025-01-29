@@ -17,6 +17,7 @@
 - 📫 How to reach me **agam2003jain@gmail.com**
 
 - ⚡ Fun fact **I think , I am funny**
+- check the post of daily.dev [MyPosts](https://dly.to/NtK14kwIdnS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
